@@ -3,7 +3,6 @@
 
 ---
 
-[**Watch the full Youtube vidoe demomostration of this project**](https://youtu.be/0fkz_RKFdwY).
 
 ---
 
