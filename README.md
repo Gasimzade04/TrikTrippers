@@ -35,6 +35,11 @@ Run the Django development server:
 ```bash
 python manage.py runserver 0.0.0.0:80 
 ```
+
+In Cloud
+```bash
+nohup python manage.py runserver 0.0.0.0:80 &
+```
 Access the application in your web browser at http://localhost:80.
 
 Dependencies
